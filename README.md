@@ -20,7 +20,15 @@ git clone git@github.com:pietrop/auto-paper-edit-experiment.git
 cd auto-paper-edit-experiment
 ```
 
+add a `.env` with you assemblyAI credential
+
+```
+ASSEMBLYAI_API_KEY=
+```
+
 ## Usage
+
+_TBC_
 
 ## System Architecture
 
@@ -37,7 +45,7 @@ There's a [docs](./docs) folder in this repository.
 
 > An architectural decision record (ADR) is a document that captures an important architectural decision made along with its context and consequences.
 
-We are using [this template for ADR](https://gist.github.com/iaincollins/92923cc2c309c2751aea6f1b34b31d95)-->
+We are using [this template for ADR](https://gist.github.com/iaincollins/92923cc2c309c2751aea6f1b34b31d95) -->
 
 ## Development env
 
